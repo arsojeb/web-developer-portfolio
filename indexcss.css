@@ -172,5 +172,8 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     padding: 10px 20px;
     margin-bottom: 24px;
     border:0;
-
+    margin: auto;
+}
+footer div a{
+    gap 20px;
 }
